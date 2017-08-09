@@ -1,0 +1,9 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{F54CB8F0-4867-CB7B-FD1A-DAA75FBE57D8}",
+	"Category": "",
+	"Description": "",
+	"TargetPlatforms": [
+		"UWP"
+	]
+}
